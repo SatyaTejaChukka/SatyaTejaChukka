@@ -104,11 +104,11 @@ I enjoy solving real-world problems, learning continuously, and turning ideas in
 
 <p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyatejachukka&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaTejaChukka&layout=compact&theme=dark&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyatejachukka&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatyaTejaChukka&show_icons=true&theme=dark&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyatejachukka&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SatyaTejaChukka&theme=dark)
 
 </p>
 
