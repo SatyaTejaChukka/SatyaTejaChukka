@@ -7,6 +7,7 @@ I enjoy solving real-world problems, learning continuously, and turning ideas in
 
 📍 India  
 📧 **Email:** satyateja671@gmail.com
+
 💻 **Portfolio:** https://satyatejachukka.github.io/my-portfolio/
 
 ---
