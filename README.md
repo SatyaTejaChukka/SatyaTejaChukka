@@ -6,7 +6,8 @@ I build **practical, scalable software** — from **machine learning models** to
 I enjoy solving real-world problems, learning continuously, and turning ideas into **working products**.
 
 📍 India  
-📧 **Email:** satyateja671@gmail.com  
+📧 **Email:** satyateja671@gmail.com
+💻 **Portfolio:** https://satyatejachukka.github.io/my-portfolio/
 
 ---
 
