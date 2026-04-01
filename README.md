@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Satya Teja Chukka
 
-### 🎓 B.Tech CSE (AI & ML) | Full-Stack & ML Engineer
+### 🎓 B.Tech CSE (AI & ML) | Full-Stack & ML Enthusiast
 
-I build **practical, scalable software** — from **machine learning models** to **production-ready APIs**.  
+I build **practical software** — from **machine learning models** to **production-ready APIs**.  
 I enjoy solving real-world problems, learning continuously, and turning ideas into **working products**.
 
 📍 India  
