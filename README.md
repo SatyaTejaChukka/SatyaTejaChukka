@@ -6,7 +6,7 @@ I build scalable software systems, AI-powered applications, and full-stack produ
 
 📍 India  
 📧 **Email:** satyateja671@gmail.com  
-🌐 **Portfolio:** https://satyatejachukka.github.io/my-portfolio/
+🌐 **Portfolio:** [https://satyatejachukka.github.io/](https://satyatejachukka.github.io/)
 
 ---
 
